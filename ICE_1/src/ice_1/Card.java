@@ -8,6 +8,8 @@ package ice_1;
 /**
  *
  * @author mauli
+ * Student Name:Maulik Prajapati
+ * Student Id:991788918
  */
 public class Card {
    
