@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * This class performs a card trick by generating a magic hand of 7 cards,
  * then checks whether a hardcoded "lucky card" is in the hand.
- * Modifier: Mauli Prajapati
+ * Modifier: Maulik Prajapati
  * Student Number: 991788918
  * Date Modified: 2025-06-02
  */
